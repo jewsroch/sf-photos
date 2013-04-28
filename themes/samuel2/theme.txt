@@ -1,0 +1,6 @@
+# Zenphoto theme definition file
+name::samuel2
+author::Ben Wilson - ben@diversionware.com.au
+version::0.2
+date::11/9/2007
+desc::My first crack at a theme, loosely based on the sterile theme but with proper rounded corners that work in IE and firefox etc.  Also has the unique functionality of turning the image into an imagemap for navigation back and forward.  There is improvement to be done, but wanted to share what I have so far :)

@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zenpage theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-28 17:56+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: fretzl\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: C:\\Users\\Eigenaar\\Desktop\\Vertalingen\\zenpage-default-thema\n"
+"X-Poedit-SearchPath-0: zenpage-default\n"
+
+#: zenpage-default/404.php:6
+#: zenpage-default/404.php:20
+msgid "Object not found"
+msgstr "Object niet gevonden"
+
+#: zenpage-default/404.php:27
+msgid "The Zenphoto object you are requesting cannot be found."
+msgstr "Het Zenphoto-object waarnaar gevraagd wordt, kan niet worden gevonden."
+
+#: zenpage-default/404.php:29
+msgid "Album"
+msgstr "Album"
+
+#: zenpage-default/404.php:32
+msgid "Image"
+msgstr "Beeld"
+
+#: zenpage-default/404.php:35
+msgid "Theme page"
+msgstr "Thema pagina"
+
+#: zenpage-default/album.php:9
+#: zenpage-default/archive.php:8
+#: zenpage-default/image.php:21
+#: zenpage-default/index.php:9
+#: zenpage-default/search.php:8
+msgid "Gallery RSS"
+msgstr "Galerij RSS"
+
+#: zenpage-default/album.php:22
+msgid "Albums Index"
+msgstr "Albums Index"
+
+#: zenpage-default/album.php:22
+#: zenpage-default/archive.php:22
+#: zenpage-default/image.php:40
+#: zenpage-default/index.php:24
+#: zenpage-default/news.php:23
+#: zenpage-default/pages.php:23
+#: zenpage-default/search.php:24
+msgid "Index"
+msgstr "Index"
+
+#: zenpage-default/album.php:22
+#: zenpage-default/image.php:40
+#: zenpage-default/sidebar.php:10
+msgid "Gallery"
+msgstr "Galerij"
+
+#: zenpage-default/album.php:34
+#: zenpage-default/album.php:37
+#: zenpage-default/index.php:34
+#: zenpage-default/index.php:37
+#: zenpage-default/search.php:44
+#: zenpage-default/search.php:47
+msgid "View album:"
+msgstr "Bekijk album"
+
+#: zenpage-default/album.php:55
+#: zenpage-default/image.php:32
+#: zenpage-default/index.php:45
+#: zenpage-default/search.php:73
+msgid "prev"
+msgstr "vorige"
+
+#: zenpage-default/album.php:55
+#: zenpage-default/image.php:34
+#: zenpage-default/index.php:45
+#: zenpage-default/search.php:73
+msgid "next"
+msgstr "volgende"
+
+#: zenpage-default/album.php:56
+#: zenpage-default/image.php:70
+msgid "<strong>Tags:</strong>"
+msgstr "<strong>Tags:</strong>"
+
+#: zenpage-default/album.php:58
+#: zenpage-default/image.php:63
+#: zenpage-default/search.php:66
+msgid "View Slideshow"
+msgstr "Bekijk slideshow"
+
+#: zenpage-default/archive.php:6
+#: zenpage-default/archive.php:22
+msgid "Archive View"
+msgstr "Archief"
+
+#: zenpage-default/archive.php:17
+#: zenpage-default/index.php:18
+#: zenpage-default/search.php:19
+msgid "Search gallery"
+msgstr "Doorzoek galerij"
+
+#: zenpage-default/footer.php:1
+msgid "Zenpage-default theme by <a href=\"http://zenpage.maltem.de\">Malte Müller</a>"
+msgstr "Zenpage-default thema door <a href=\"http://zenpage.maltem.de\">Malte Müller</a>"
+
+#: zenpage-default/footer.php:1
+msgid "Powered by <a href=\"http://www.zenphoto.org\" title=\"A simpler web photo album\"><span id=\"zen-part\">zen</span><span id=\"photo-part\">PHOTO</span></a> <span id=\"IE-clear-part\">with</span> <a href=\"http://zenpage.maltem.de\"><span id=\"zen-part\">zen</span><span id=\"photo-part\">PAGE</span></a>"
+msgstr "Powered by <a href=\"http://www.zenphoto.org\" title=\"A simpler web photo album\"><span id=\"zen-part\">zen</span><span id=\"photo-part\">PHOTO</span</a> <span id=\"IE-clear-part\">with</span> <a href=\"http://zenpage.maltem.de\"><span id=\"zen-part\">zen</span><span id=\"photo-part\">PAGE</span></a>"
+
+#: zenpage-default/image.php:32
+msgid "Previous Image"
+msgstr "Vorig beeld"
+
+#: zenpage-default/image.php:34
+msgid "Next Image"
+msgstr "Volgend beeld"
+
+#: zenpage-default/image.php:52
+msgid "&laquo; prev thumbs"
+msgstr "&laquo; vorige thumbs"
+
+#: zenpage-default/image.php:52
+msgid "next thumbs &raquo;"
+msgstr "volgende thumbs &raquo;"
+
+#: zenpage-default/image.php:66
+msgid "Image Info"
+msgstr "Beeld informatie"
+
+#: zenpage-default/image.php:81
+#: zenpage-default/news.php:45
+#: zenpage-default/pages.php:37
+msgid "Comments"
+msgstr "Commentaar"
+
+#: zenpage-default/image.php:85
+#: zenpage-default/news.php:49
+#: zenpage-default/pages.php:41
+msgid "says:"
+msgstr "zegt:"
+
+#: zenpage-default/image.php:92
+#: zenpage-default/news.php:56
+#: zenpage-default/pages.php:48
+msgid "Edit"
+msgstr "Pas aan"
+
+#: zenpage-default/image.php:100
+#: zenpage-default/news.php:64
+#: zenpage-default/pages.php:56
+msgid "Add a comment:"
+msgstr "Voeg commentaar toe"
+
+#: zenpage-default/image.php:110
+#: zenpage-default/news.php:74
+#: zenpage-default/pages.php:66
+msgid "Name:"
+msgstr "Naam:"
+
+#: zenpage-default/image.php:111
+#: zenpage-default/news.php:75
+#: zenpage-default/pages.php:67
+msgid "don't publish"
+msgstr "niet publiceren"
+
+#: zenpage-default/image.php:117
+#: zenpage-default/news.php:81
+#: zenpage-default/pages.php:73
+msgid "E-Mail:"
+msgstr "E-Mail:"
+
+#: zenpage-default/image.php:122
+#: zenpage-default/news.php:86
+#: zenpage-default/pages.php:78
+msgid "Site:"
+msgstr "Website:"
+
+#: zenpage-default/image.php:128
+#: zenpage-default/news.php:92
+#: zenpage-default/pages.php:84
+msgid "Enter Captcha:"
+msgstr "Voer captcha in"
+
+#: zenpage-default/image.php:134
+#: zenpage-default/news.php:98
+#: zenpage-default/pages.php:90
+msgid "Private (don't publish)"
+msgstr "Privé (niet publiceren)"
+
+#: zenpage-default/image.php:138
+#: zenpage-default/news.php:102
+#: zenpage-default/pages.php:94
+msgid "Add Comment"
+msgstr "Voeg commentaar toe"
+
+#: zenpage-default/image.php:141
+#: zenpage-default/news.php:106
+#: zenpage-default/pages.php:97
+msgid "Comments are closed."
+msgstr "Commentaren gesloten."
+
+#: zenpage-default/image.php:142
+#: zenpage-default/news.php:109
+#: zenpage-default/pages.php:98
+msgid "Subscribe to comments"
+msgstr "Aanmelden voor reacties"
+
+#: zenpage-default/index.php:51
+#: zenpage-default/news.php:38
+#: zenpage-default/news.php:115
+msgid "Comments:"
+msgstr "Commentaar:"
+
+#: zenpage-default/index.php:55
+#: zenpage-default/news.php:119
+msgid "Album:"
+msgstr "Album:"
+
+#: zenpage-default/index.php:60
+#: zenpage-default/news.php:38
+#: zenpage-default/news.php:124
+msgid "Categories: "
+msgstr "Categorieën: "
+
+#: zenpage-default/index.php:72
+#: zenpage-default/news.php:135
+msgid "next &raquo;"
+msgstr "volgende &raquo;"
+
+#: zenpage-default/index.php:72
+#: zenpage-default/news.php:135
+msgid "&laquo; prev"
+msgstr "&laquo; vorige"
+
+#: zenpage-default/news.php:5
+msgid "News"
+msgstr "Nieuws"
+
+#: zenpage-default/search.php:6
+#: zenpage-default/search.php:24
+msgid "Search"
+msgstr "Zoek"
+
+#: zenpage-default/search.php:36
+msgid "Total matches for"
+msgstr "Totaal aantal overeenkomsten voor"
+
+#: zenpage-default/search.php:49
+msgid "Date:"
+msgstr "Datum:"
+
+#: zenpage-default/search.php:70
+msgid "Sorry, no image matches. Try refining your search."
+msgstr "Sorry, niets gevonden. Probeer je zoekopdracht te herformuleren."
+
+#: zenpage-default/sidebar.php:3
+msgid "News articles"
+msgstr "Nieuwsartikelen"
+
+#: zenpage-default/sidebar.php:17
+msgid "Pages"
+msgstr "Pagina's"
+
+#: zenpage-default/sidebar.php:23
+msgid "Archive"
+msgstr "Archief"
+
+#: zenpage-default/sidebar.php:27
+msgid "Gallery And News"
+msgstr "Galerij en Nieuws"
+
+#: zenpage-default/sidebar.php:29
+msgid "Gallery and News"
+msgstr "Galerij en Nieuws"
+
+#: zenpage-default/sidebar.php:36
+msgid "RSS"
+msgstr "RSS"
+
+#: zenpage-default/slideshow.php:6
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: zenpage-default/theme_description.php:7
+msgid "The zenpage CMS plugin default theme. It does also work without Zenpage installed as a normal theme. It containts extra support for print_album_menu plugin, the dynamic_locale plugin and the new paged_thumbs_nav plugin."
+msgstr "Het Zenpage  basisthema. Dit werkt ook zonder dat Zenpage geïnstalleerd is. Het biedt ondersteuning voor de &ldquo;print_album_menu&rdquo; plugin, de &ldquo;dynamic_locale&rdquo; plugin en de nieuwe &ldquo;paged_thumbs_nav&rdquo; plugin."
+

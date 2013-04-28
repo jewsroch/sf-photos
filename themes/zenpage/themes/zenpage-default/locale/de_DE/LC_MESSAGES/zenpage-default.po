@@ -1,0 +1,318 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zenpage-default theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-30 15:51+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: acrylian <wartgart@gmx.net>\n"
+"Language-Team: Malte Müller (acrylian)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/\n"
+"X-Poedit-SearchPath-0: zenpage/themes/zenpage-default\n"
+
+#: zenpage/themes/zenpage-default/404.php:6
+#: zenpage/themes/zenpage-default/404.php:20
+msgid "Object not found"
+msgstr "Objekt nicht gefunden"
+
+#: zenpage/themes/zenpage-default/404.php:27
+msgid "The Zenphoto object you are requesting cannot be found."
+msgstr "Die gesuchte Seite wurde nicht gefunden."
+
+#: zenpage/themes/zenpage-default/404.php:29
+msgid "Album"
+msgstr "Album"
+
+#: zenpage/themes/zenpage-default/404.php:32
+msgid "Image"
+msgstr "Bild"
+
+#: zenpage/themes/zenpage-default/404.php:35
+msgid "Theme page"
+msgstr "Theme-Seite"
+
+#: zenpage/themes/zenpage-default/album.php:9
+#: zenpage/themes/zenpage-default/archive.php:8
+#: zenpage/themes/zenpage-default/image.php:21
+#: zenpage/themes/zenpage-default/index.php:9
+#: zenpage/themes/zenpage-default/search.php:8
+msgid "Gallery RSS"
+msgstr "Galerie-RSS"
+
+#: zenpage/themes/zenpage-default/album.php:22
+msgid "Albums Index"
+msgstr "Albenindex"
+
+#: zenpage/themes/zenpage-default/album.php:22
+#: zenpage/themes/zenpage-default/archive.php:22
+#: zenpage/themes/zenpage-default/image.php:40
+#: zenpage/themes/zenpage-default/index.php:24
+#: zenpage/themes/zenpage-default/news.php:23
+#: zenpage/themes/zenpage-default/pages.php:23
+#: zenpage/themes/zenpage-default/search.php:24
+msgid "Index"
+msgstr "Index"
+
+#: zenpage/themes/zenpage-default/album.php:22
+#: zenpage/themes/zenpage-default/image.php:40
+#: zenpage/themes/zenpage-default/sidebar.php:10
+msgid "Gallery"
+msgstr "Galerie"
+
+#: zenpage/themes/zenpage-default/album.php:34
+#: zenpage/themes/zenpage-default/album.php:37
+#: zenpage/themes/zenpage-default/index.php:34
+#: zenpage/themes/zenpage-default/index.php:37
+#: zenpage/themes/zenpage-default/search.php:44
+#: zenpage/themes/zenpage-default/search.php:47
+msgid "View album:"
+msgstr "Album ansehen:"
+
+#: zenpage/themes/zenpage-default/album.php:55
+#: zenpage/themes/zenpage-default/image.php:32
+#: zenpage/themes/zenpage-default/index.php:45
+#: zenpage/themes/zenpage-default/search.php:70
+msgid "prev"
+msgstr "zurück"
+
+#: zenpage/themes/zenpage-default/album.php:55
+#: zenpage/themes/zenpage-default/image.php:34
+#: zenpage/themes/zenpage-default/index.php:45
+#: zenpage/themes/zenpage-default/search.php:70
+msgid "next"
+msgstr "weiter"
+
+#: zenpage/themes/zenpage-default/album.php:56
+#: zenpage/themes/zenpage-default/image.php:70
+msgid "<strong>Tags:</strong>"
+msgstr "<strong>Schlagworte:</strong>"
+
+#: zenpage/themes/zenpage-default/album.php:58
+#: zenpage/themes/zenpage-default/image.php:63
+#: zenpage/themes/zenpage-default/search.php:65
+msgid "View Slideshow"
+msgstr "Diaschau ansehen"
+
+#: zenpage/themes/zenpage-default/archive.php:6
+#: zenpage/themes/zenpage-default/archive.php:22
+msgid "Archive View"
+msgstr "Archiv ansehen"
+
+#: zenpage/themes/zenpage-default/archive.php:17
+#: zenpage/themes/zenpage-default/index.php:18
+#: zenpage/themes/zenpage-default/search.php:19
+msgid "Search gallery"
+msgstr "Galerie durchsuchen"
+
+#: zenpage/themes/zenpage-default/footer.php:1
+msgid "Zenpage-default theme by <a href=\"http://zenpage.maltem.de\">Malte Müller</a>"
+msgstr "Zenpage-default Theme von <a href=\"http://zenpage.maltem.de\">Malte Müller</a>"
+
+#: zenpage/themes/zenpage-default/footer.php:1
+msgid "Powered by <a href=\"http://www.zenphoto.org\" title=\"A simpler web photo album\"><span id=\"zen-part\">zen</span><span id=\"photo-part\">PHOTO</span></a> <span id=\"IE-clear-part\">with</span> <a href=\"http://zenpage.maltem.de\"><span id=\"zen-part\">zen</span><span id=\"photo-part\">PAGE</span></a>"
+msgstr "Betrieben mit <a href=\"http://www.zenphoto.org\" title=\"A simpler web photo album\"><span id=\"zen-part\">zen</span><span id=\"photo-part\">PHOTO</span></a> <span id=\"IE-clear-part\">mit</span> <a href=\"http://zenpage.maltem.de\"><span id=\"zen-part\">zen</span><span id=\"photo-part\">PAGE</span></a>"
+
+#: zenpage/themes/zenpage-default/image.php:32
+msgid "Previous Image"
+msgstr "Vorheriges Bild"
+
+#: zenpage/themes/zenpage-default/image.php:34
+msgid "Next Image"
+msgstr "Nächstes Bild"
+
+#: zenpage/themes/zenpage-default/image.php:52
+msgid "&laquo; prev thumbs"
+msgstr "&laquo; vorherige"
+
+#: zenpage/themes/zenpage-default/image.php:52
+msgid "next thumbs &raquo;"
+msgstr "nächste &raquo;"
+
+#: zenpage/themes/zenpage-default/image.php:66
+msgid "Image Info"
+msgstr "Bildinfo"
+
+#: zenpage/themes/zenpage-default/image.php:81
+#: zenpage/themes/zenpage-default/news.php:45
+#: zenpage/themes/zenpage-default/pages.php:37
+msgid "Comments"
+msgstr "Kommentare"
+
+#: zenpage/themes/zenpage-default/image.php:85
+#: zenpage/themes/zenpage-default/news.php:49
+#: zenpage/themes/zenpage-default/pages.php:41
+msgid "says:"
+msgstr "sagt:"
+
+#: zenpage/themes/zenpage-default/image.php:92
+#: zenpage/themes/zenpage-default/news.php:56
+#: zenpage/themes/zenpage-default/pages.php:48
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: zenpage/themes/zenpage-default/image.php:100
+#: zenpage/themes/zenpage-default/news.php:64
+#: zenpage/themes/zenpage-default/pages.php:56
+msgid "Add a comment:"
+msgstr "Kommentar hinzufügen:"
+
+#: zenpage/themes/zenpage-default/image.php:110
+#: zenpage/themes/zenpage-default/news.php:74
+#: zenpage/themes/zenpage-default/pages.php:66
+msgid "Name:"
+msgstr "Name:"
+
+#: zenpage/themes/zenpage-default/image.php:111
+#: zenpage/themes/zenpage-default/news.php:75
+#: zenpage/themes/zenpage-default/pages.php:67
+msgid "don't publish"
+msgstr "nicht veröffentlichen"
+
+#: zenpage/themes/zenpage-default/image.php:117
+#: zenpage/themes/zenpage-default/news.php:81
+#: zenpage/themes/zenpage-default/pages.php:73
+msgid "E-Mail:"
+msgstr "E-Mail:"
+
+#: zenpage/themes/zenpage-default/image.php:122
+#: zenpage/themes/zenpage-default/news.php:86
+#: zenpage/themes/zenpage-default/pages.php:78
+msgid "Site:"
+msgstr "Website:"
+
+#: zenpage/themes/zenpage-default/image.php:128
+#: zenpage/themes/zenpage-default/news.php:92
+#: zenpage/themes/zenpage-default/pages.php:84
+msgid "Enter Captcha:"
+msgstr "Captcha eingeben:"
+
+#: zenpage/themes/zenpage-default/image.php:134
+#: zenpage/themes/zenpage-default/news.php:98
+#: zenpage/themes/zenpage-default/pages.php:90
+msgid "Private (don't publish)"
+msgstr "Privat (nicht veröffentlichen)"
+
+#: zenpage/themes/zenpage-default/image.php:138
+#: zenpage/themes/zenpage-default/news.php:102
+#: zenpage/themes/zenpage-default/pages.php:94
+msgid "Add Comment"
+msgstr "Kommentar hinzufügen"
+
+#: zenpage/themes/zenpage-default/image.php:141
+#: zenpage/themes/zenpage-default/news.php:106
+#: zenpage/themes/zenpage-default/pages.php:97
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: zenpage/themes/zenpage-default/image.php:142
+#: zenpage/themes/zenpage-default/news.php:109
+#: zenpage/themes/zenpage-default/pages.php:98
+msgid "Subscribe to comments"
+msgstr "Kommentare abonnieren"
+
+#: zenpage/themes/zenpage-default/index.php:51
+#: zenpage/themes/zenpage-default/news.php:38
+#: zenpage/themes/zenpage-default/news.php:115
+msgid "Comments:"
+msgstr "Kommentare:"
+
+#: zenpage/themes/zenpage-default/index.php:55
+#: zenpage/themes/zenpage-default/news.php:119
+msgid "Album:"
+msgstr "Album:"
+
+#: zenpage/themes/zenpage-default/index.php:60
+#: zenpage/themes/zenpage-default/news.php:38
+#: zenpage/themes/zenpage-default/news.php:124
+msgid "Categories: "
+msgstr "Kategorien: "
+
+#: zenpage/themes/zenpage-default/index.php:72
+#: zenpage/themes/zenpage-default/news.php:135
+msgid "next &raquo;"
+msgstr "vor &raquo;"
+
+#: zenpage/themes/zenpage-default/index.php:72
+#: zenpage/themes/zenpage-default/news.php:135
+msgid "&laquo; prev"
+msgstr "&laquo; zurück"
+
+#: zenpage/themes/zenpage-default/news.php:5
+msgid "News"
+msgstr "Neuigkeiten"
+
+#: zenpage/themes/zenpage-default/search.php:6
+#: zenpage/themes/zenpage-default/search.php:24
+msgid "Search"
+msgstr "Suche"
+
+#: zenpage/themes/zenpage-default/search.php:36
+msgid "Total matches for"
+msgstr "Fundstellen insgesamt von"
+
+#: zenpage/themes/zenpage-default/search.php:49
+msgid "Date:"
+msgstr "Datum:"
+
+#: zenpage/themes/zenpage-default/search.php:67
+msgid "Sorry, no image matches. Try refining your search."
+msgstr "Leider keine Bilder gefunden. Versuchen Sie Ihre Suche zu verfeinern."
+
+#: zenpage/themes/zenpage-default/sidebar.php:3
+msgid "News articles"
+msgstr "Neuigkeiten"
+
+#: zenpage/themes/zenpage-default/sidebar.php:17
+msgid "Pages"
+msgstr "Seiten"
+
+#: zenpage/themes/zenpage-default/sidebar.php:23
+msgid "Archive"
+msgstr "Archiv"
+
+#: zenpage/themes/zenpage-default/sidebar.php:27
+msgid "Gallery And News"
+msgstr "Galerie und Neuigkeiten"
+
+#: zenpage/themes/zenpage-default/sidebar.php:29
+msgid "Gallery and News"
+msgstr "Galerie und Neuigkeiten"
+
+#: zenpage/themes/zenpage-default/sidebar.php:36
+msgid "RSS"
+msgstr "RSS"
+
+#: zenpage/themes/zenpage-default/slideshow.php:6
+msgid "Slideshow"
+msgstr "Diaschau"
+
+#: zenpage/themes/zenpage-default/theme_description.php:7
+msgid "The zenpage CMS plugin default theme. It does also work without Zenpage installed as a normal theme. It containts extra support for print_album_menu plugin, the dynamic_locale plugin and the new paged_thumbs_nav plugin."
+msgstr "Das Zenpage CMS-Plugin-Standard-Theme. Es funktioniert ebenso ohne installiertes Zenpage als ein normales Zenphoto-Theme. Es enthält außerdem Unterstützung für das print_album_menu-Plugin, the dynamic_locale-Plugin and the paged_thumbs_nav-Plugin."
+
+#~ msgid "Zenpage-default theme by"
+#~ msgstr "Zenpage-default theme von"
+#~ msgid "Powered by"
+#~ msgstr "Betrieben mit "
+#~ msgid "A simpler web photo album"
+#~ msgstr "Die einfachere Internetbildgalerie"
+#~ msgid "with"
+#~ msgstr "mit"
+#~ msgid "previous thumbs"
+#~ msgstr "Vorherige Thumbnails"
+#~ msgid "next thumbs"
+#~ msgstr "Nächste Thumbnails"
+#~ msgid "Images %1$u - %2$u of %3$u (%4$u/%5$u)"
+#~ msgstr "Bilder %1$u - %2$u von %3$u (%4$u/%5$u)"
+#~ msgid "The zenpage default theme."
+#~ msgstr "Das Zenpage-Standard-Theme."
+#~ msgid "a cms plugin for zenphoto"
+#~ msgstr "ein CMS-Plugin für Zenphoto"
+#~ msgid "of"
+#~ msgstr "von"
+

@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tinyzenpage\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-11-25 11:57+0100\n"
+"PO-Revision-Date: 2008-11-26 20:16+0100\n"
+"Last-Translator: \n"
+"Language-Team: flu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/\n"
+"X-Poedit-SearchPath-0: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage\n"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage-functions.php:106
+msgid "Album:"
+msgstr "Album :"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage-functions.php:106
+msgid "Album folder:"
+msgstr "Dossier des albums :"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage-functions.php:106
+msgid "(Click on image to include)"
+msgstr "(Cliquez sur l'image pour l'inclure)"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage-functions.php:142
+msgid "<strong>Note:</strong> This album does not contain any images."
+msgstr "<strong>Note :</strong> Cet album ne contient aucune image."
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage-functions.php:211
+msgid "Page"
+msgstr "Page"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage-functions.php:239
+msgid "pages"
+msgstr "pages"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage-functions.php:240
+msgid "articles"
+msgstr "articles"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage-functions.php:241
+msgid "categories"
+msgstr "catégories"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage-functions.php:376
+msgid "(Click on article title to include a link)"
+msgstr "(cliquez sur l'article pour ajouter un lien)"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:37
+msgid "*Select*"
+msgstr "*Sélectionnez*"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:40
+msgid "(only direct links!)"
+msgstr "(liens directs uniquement !)"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:50
+msgid "*Select an album*"
+msgstr "*Sélectionnez un album*"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:53
+msgid "(select variant below)"
+msgstr "(sélectionnez une option ci-dessous)"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:62
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:134
+msgid "What to include"
+msgstr "Quoi inclure"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:63
+msgid "Image"
+msgstr "image"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:64
+msgid "Image title"
+msgstr "Titre de l'image"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:65
+msgid "Album title"
+msgstr "Titre de l'album"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:67
+msgid "Custom text"
+msgstr "Texte personnalisé"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:75
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:139
+msgid "Image size"
+msgstr "Taille de l'image"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:76
+msgid "Thumbnail"
+msgstr "Vignette"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:78
+msgid "Custom thumbnail"
+msgstr "Vignette personnalisée"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:79
+msgid "Sized image"
+msgstr "Image de taille adaptée"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:81
+msgid "Custom size (uncropped)"
+msgstr "Taille personnalisée (non coupée)"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:89
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:143
+msgid "Link type"
+msgstr "Type de lien"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:90
+msgid "Link to image"
+msgstr "Lien vers l'image"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:91
+msgid "Link to album"
+msgstr "Lien vers l'album"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:92
+msgid "No link"
+msgstr "Sans lien"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:94
+msgid "Custom link"
+msgstr "Lien personnalisé"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:102
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:147
+msgid "Text wrap"
+msgstr "Enveloppe du texte"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:103
+msgid "No wrap"
+msgstr "Sans"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:104
+msgid "Right"
+msgstr "A droite"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:105
+msgid "Left"
+msgstr "A gauche"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:117
+msgid "Welcome to <em>tiny</em>Zenpage (v1.0.0)!"
+msgstr "Bienvenue dans <em>tiny</em>Zenpage (v1.0.1)!"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:119
+msgid "This provides access to your images and albums (dropdown 'zenphoto') as well as pages, news articles and news categories (dropdown 'zenpage') to easily include them in your pages and articles. You need at least 'Manage all albums' or 'Edit' rights to specific albums to be able to included image from them."
+msgstr "Ceci vous donne accès à vos images et à vos albums (via le menu 'zenphoto') tout comme aux pages, articles d'actualité et catégories d'articles (via le menu 'zenpage') pour les inclure facilement dans vos pages et dans vos articles. Vous devez avoir les droits d'administration (comme 'gérer tous les albums' ou 'modifier') sur l'album dont vous souhaitez inclure des images."
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:121
+msgid "The options below the 'zenphoto' drop down do only affect including images and albums. These options are be used on the fly and are not sticky if you reload the page (selecting another album or moving between pages in an album)."
+msgstr "Les options en dessous du menu 'zenphoto' ne concernent que l'inclusion d'images ou d'albums. Ces options sont effectuées à la volée et ne sont pas conservées si vous rechargez la page (par exemple en sélectionnant un autre album ou une autre page dans un album)."
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:123
+msgid "The windows does not close automatically so you can include several images one after another."
+msgstr "Les fenêtres ne se ferment pas automatiquement, vous pouvez ainsi inclure plusieurs images les unes après les autres."
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:125
+msgid "The tinyZenpage page on the Zenpage project site: <a href='http://zenpage.maltem.de/pages/tinyZenpage' title='zenpage project site'>zenpage.maltem.de/pages/tinyZenpage</a>"
+msgstr "La page de tinyZenpage sur le site du projet Zenpage : <a href='http://zenpage.maltem.de/pages/tinyZenpage' title='site du projet zenpage'>zenpage.maltem.de/pages/tinyZenpage</a>"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:129
+msgid "Select to show a list of Zenpage pages, articles or categories. Click on a title to include a link. Hover of the link to see an excerpt of the page or article. Unpublished pages or articles are marked with an '*'. There are no further options."
+msgstr "Sélectionnez le pour voir une liste de vos pages, articles ou catégories édités avec Zenpage. Cliquez sur leur titre pour les inclure sous forme de lien. En passant au dessus du lien apparaît un extrait de la page ou de l'article. Les pages et les articles non publiés sont marqué d'un '*'. Il n'y a pas d'autres options pour cette section."
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:133
+msgid "Select an album to include images from into your page or article. Click on the image to included it. Unpublished albums or images are marked with an '*'. You can also click on the magnify glass icon to see a preview of the item (Multimedia files are previewed in Flowplayer, no matter if that plugin is activated or not.). <br />Note that it is currently not possible to include multimedia files directly as a sized image or custom image. Besides that you have several options what to include and how:"
+msgstr "Sélectionnez un album pour en inclure des images au sein de votre page ou de votre article. Cliquez sur l'image pour l'inclure. Les albums et les images non-publiés sont marqués d'un '*'. Vous pouvez également cliquer sur l'icône représentant une loupe pour zoomer sur l'élément sélectionné (les fichiers multimédia sont affichés dans le Flowplayer, que cette extension soit activée ou pas sur le site).<br /> Notez bien qu'il n'est pas possible actuellement d'inclure un fichier multimédia sous forme de vignette personnalisée ou d'image ajustée. De plus, vous avez plusieurs options qui vous permettent de spécifier quoi inclure et comment :"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:137
+msgid "Include the image itself, only its title, the title of its album or a custom text."
+msgstr "Inclure l'image elle-même, seulement son titre, le titre de son album ou un texte personnalisé."
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:141
+msgid "Include the thumbnail of the size set in Zenphoto's options, a custom thumbnail (size for the longest side / cropwidth x cropheight), the sized image as set in Zenphoto's options or a custom size (size is for the longest side of the image)."
+msgstr "Inclure la vignette selon les paramètres des options générales de la galerie, Une vignette personnalisée (de la taille du plus grand côté, recadrée en largeur ou en hauteur). Une image ajustée selon les paramètres généraux des options de Zenphoto ou une image personnalisée (dont la taille correspond au plus grand côté de l'image)."
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:145
+msgid "Select to link to the image page of the image, to the album the image is in, no link at all or a custom url."
+msgstr "Sélectionnez pour ajouter un lien vers la page de l'image, vers l'album auquel l'image appartient, pas de lien du tout ou une url personnalisée."
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:149
+msgid "Wrap the text right or left of the image or not at all. Note that tinyZenpage adds a bit of CSS to the included image if you use text wrap. So that you see immediate results to the text wrap it attaches some inline CSS:"
+msgstr "Enveloppe l'image de texte à gauche ou à droite de celle-ci ou encore aucun des deux. Notez que tinyZenpage ajoute un peu de CSS à l'image si vous utilisez l'enveloppe de texte. Ainsi vous pouvez avoir immédiatement un aperçu du résultat avec ces éléments CSS :"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:151
+msgid "left wrap: <em>style=\"float:right\"</em>"
+msgstr "texte à gauche : <em>style=\"float:right\"</em>"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:152
+msgid "right wrap: <em>style=\"float: left\"</em>"
+msgstr "Texte à droite : <em>style=\"float: left\"</em>"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:156
+msgid "Also tinyZenpage attaches a default CSS class to the image (if image is chosen) to be styled with your theme's css:"
+msgstr "Si une image est choisie afin d'être inclue dans une page ou un article, TinyZenpage y ajoute également une classe CSS par défaut afin que vous puissiez en définir le style dans le CSS de votre thème : "
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:159
+msgid "Default thumbnail: <em>zenpage_thumb_left</em> or <em>zenpage_thumb_right</em>"
+msgstr "Vignette par défaut : <em>zenpage_thumb_left</em> ou <em>zenpage_thumb_right</em>"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:160
+msgid "Custom thumbnail: <em>zenpage_customthumb_left</em> or <em>zenpage_customthumb_right</em>"
+msgstr "Vignette personnalisée : <em>zenpage_customthumb_left</em> ou <em>zenpage_customthumb_right</em>"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:161
+msgid "Sized image: <em>zenpage_sizedimage_left</em> or <em>zenpage_sizedimage_right</em>"
+msgstr "Image ajustée : <em>zenpage_sizedimage_left</em> ou <em>zenpage_sizedimage_right</em>"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:162
+msgid "Custom image: <em>zenpage_customimage_left</em> or <em>zenpage_customimage_right</em>"
+msgstr "Image personnalisée : <em>zenpage_customimage_left</em> ou <em>zenpage_customimage_right</em>"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:165
+msgid "If you like to do some direct styling you can also use TinyMCE's image button or source code editor. <br />Also you can customize the CSS output yourself by directly changing the textwrap variables in line 47 and 50 in <em>tinyzenpage/js/dialog.php</em>."
+msgstr "Si vous souhaitez ajouter directement d'autres styles, vous pouvez aussi utiliser le bouton 'image' ou l'éditeur html de TinyMCE.<br /> Vous pouvez également personnaliser le rendu CSS en changeant les options les concernant ligne 47 et 50 dans <em>tinyzenpage/js/dialog.php</em>."
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/tinyzenpage.php:176
+msgid "Help"
+msgstr "Aide"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/zoom.php:23
+msgid "Get Flash"
+msgstr "Téléchargez Flash"
+
+#: zenpage/zp-core/plugins/tiny_mce/plugins/tinyzenpage/zoom.php:23
+msgid "to see this player."
+msgstr "pour voir ce lecteur."
+
+#~ msgid ""
+#~ "Wrap the text right or left of the image or not at all. For further "
+#~ "styling of the wrap like margin between image and text use the image "
+#~ "button of tinyMCE."
+#~ msgstr ""
+#~ "Textfluß rechts oder links vom Bild oder kein Textfluß. Nutzen Sie "
+#~ "TinyMCEs Bildbutton für weitere Bildformatierungen wie Bildabstand."
+#~ msgid "(Click on category title to include a link)"
+#~ msgstr "(Zum Einfügen eines Links auf den Titel klicken)"
+

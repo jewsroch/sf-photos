@@ -1,0 +1,941 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zenpage test\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-30 15:51+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: acrylian <wartgart@gmx.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: Germany\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/\n"
+"X-Poedit-SearchPath-0: zenpage/zp-core/plugins/zenpage\n"
+"X-Poedit-SearchPath-1: zenpage/zp-core/plugins/zenpage.php\n"
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:5
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:5
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:5
+#: zenpage/zp-core/plugins/zenpage/admin-pages.php:7
+msgid "zenphoto administration"
+msgstr "Zenphoto-Verwaltung"
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:35
+msgid "Edit Category:"
+msgstr "Kategorie bearbeiten:"
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:37
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1195
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1197
+msgid "Categories"
+msgstr "Kategorien"
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:41
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:97
+msgid "Usage tips"
+msgstr "Bedienungshinweise"
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:43
+msgid "Add New Category"
+msgstr "Neue Kategorie hinzufügen"
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:48
+msgid "A search engine friendly <em>titlelink</em> (aka slug) without special characters to be used in URLs is generated from the title of the currently chosen language automatically if a new category is added. You can edit it later manually if necessary."
+msgstr "Ein suchmaschinenfreundlicher <em>Titellink</em> (auch \"slug\" genannt) ohne Sonderzeichen für die Verwendung in URLs wird automatisch aus dem Titel der aktuell eingestellten Sprache erstellt. Sie können diesen später manuell bearbeiten falls nötig."
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:49
+msgid "If you are editing a category check <em>Edit Titlelink</em> if you need to customize how the title appears in URLs. Otherwise it will be automatically updated to any changes made to the title. If you want to prevent this check <em>Enable permaTitlelink</em> and the titlelink stays always the same (recommended if you use Zenphoto's multilingual mode). <strong>Note: </strong> <em>Edit titlelink</em> overrides the permalink setting."
+msgstr "Wählen Sie <em>Titellink bearbeiten</em>, wenn Sie anpassen möchten, wie der Titel in URLs erscheint.  Andernfalls wird er jedesmal automatisch jeder Änderung am Titel angepaßt. Wenn Sie dies verhindern möchten, wählen Sie <em>PermaTitellink aktivieren</em> und der Titellink bleibt immer derselbe (empfohlen, wenn Sie Zenphoto im mehrsprachigen Modus verwenden). <strong>Anmerkung: </strong> <em>Titellink bearbeiten</em> übergeht die <em>PermaTitellink aktivieren</em>-Einstellung."
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:50
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:107
+msgid "<strong>Important:</strong> If you are using Zenphoto's multi-lingual mode the Titlelink is generated from the Title of the currently selected language."
+msgstr "<strong>Wichtig:</strong> Wenn Sie Zenphoto im mehrsprachigen Modus verwenden, wird der Titellink vom Titel der aktuell eingestellten Sprache erstellt."
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:51
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:108
+msgid "Hint: If you need more space for your text use TinyMCE's full screen mode (Click the blue square on the top right of editor's control bar)."
+msgstr "Tipp: Wenn Sie mehr Platz für Ihren Text benötigen, verwenden Sie TinyMCEs Vollbildmodus (Klicken Sie auf das blaue Quadrat oben recht in der Editorkontrollleiste)."
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:65
+msgid "Category Title:"
+msgstr "Kategorie-Titel:"
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:67
+msgid "New Category Title:"
+msgstr "Neuer Kategorietitel:"
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:72
+msgid "Enable permaTitellink"
+msgstr "permaTitellink aktivieren:"
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:77
+msgid "Category Titellink:"
+msgstr "Kategorie-Titellink:"
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:79
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:129
+msgid "Edit TitleLink"
+msgstr "Titellink bearbeiten"
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:87
+msgid "Update Category"
+msgstr "Kategorie aktualisieren"
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:89
+msgid "Save New Category"
+msgstr "Neue Kategorie speichern"
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:93
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:144
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:101
+msgid "Edit this Category"
+msgstr "Diese Kategorie bearbeiten"
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:108
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:141
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:125
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:126
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:150
+#: zenpage/zp-core/plugins/zenpage/admin-pages.php:77
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:288
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:289
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:920
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:921
+msgid "Reset hitcounter"
+msgstr "Besucherzähler zurücksetzen"
+
+#: zenpage/zp-core/plugins/zenpage/admin-categories.php:109
+msgid "Delete category"
+msgstr "Kategorie löschen"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:40
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:83
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:59
+msgid "Add Article"
+msgstr "Neuer Artikel"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:41
+msgid "Update Article"
+msgstr "Artikel aktualisieren"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:42
+msgid "Save Article"
+msgstr "Artikel sichern"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:43
+msgid "Delete Article"
+msgstr "Artikel löschen"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:44
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:129
+msgid "Are you sure you want to delete this article? THIS CANNOT BE UNDONE!"
+msgstr "Sind Sie sicher, dass Sie diesen Artikel löschen wollen? DIES KANN NICHT RÜCKGÄNGIG GEMACHT WERDEN!"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:64
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:85
+#: zenpage/zp-core/plugins/zenpage/admin-pages.php:47
+msgid "Add Page"
+msgstr "Seite hinzufügen"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:65
+msgid "Update Page"
+msgstr "Seite aktualisieren"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:66
+msgid "Save Page"
+msgstr "Seite sichern"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:67
+msgid "Delete Page"
+msgstr "Seite löschen"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:68
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:292
+msgid "Are you sure you want to delete this page? THIS CANNOT BE UNDONE AND WILL ALSO DELETE ALL SUB PAGES OF THIS PAGE!"
+msgstr "Sind Sie sicher, dass Sie diese Seite löschen wollen? DIES KANN NICHT RÜCKGÄNGIG GEMACHT WERDEN UND WIRD AUCH ALLES VORHANDENEN UNTERSEITEN DIESER SEITE LÖSCHEN!"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:77
+msgid "Edit Article:"
+msgstr "Artikel bearbeiten"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:79
+msgid "Edit Page:"
+msgstr "Seite bearbeiten:"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:99
+msgid "View"
+msgstr "Ansehen"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:105
+msgid "Check <em>Edit Titlelink</em> if you need to customize how the title appears in URLs. Otherwise it will be automatically updated to any changes made to the title. If you want to prevent this check <em>Enable permaTitlelink</em> and the titlelink stays always the same (recommended if you use Zenphoto's multilingual mode). <strong>Note: </strong> <em>Edit titlelink</em> overrides the permalink setting."
+msgstr "Wählen Sie <em>Titellink bearbeiten</em>, wenn Sie anpassen möchten, wie der Titel in URLs erscheint.  Andernfalls wird er jedesmal automatisch jeder Änderung am Titel angepaßt. Wenn Sie dies verhindern möchten, wählen Sie <em>PermaTitellink aktivieren</em> und der Titellink bleibt immer derselbe (empfohlen, wenn Sie Zenphoto im mehrsprachigen Modus verwenden). <strong>Anmerkung: </strong> <em>Titellink bearbeiten</em> übergeht die <em>PermaTitellink aktivieren</em>-Einstellung."
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:106
+msgid "If you lock an article only the current active author/user or any user with full admin rights will be able to edit it later again!"
+msgstr "Wenn Sie einen Artikel sperren, kann nur der sperrende Autor/Benutzer oder jeder Benutzer mit vollen Administratonsrechten diesen Artikel später bearbeiten."
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:125
+msgid "Title:"
+msgstr "Titel:"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:127
+msgid "Author:"
+msgstr "Autor:"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:131
+msgid "Enable permaTitlelink"
+msgstr "PermaTitellink aktivieren"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:132
+msgid "Date:"
+msgstr "Datum:"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:135
+#, php-format
+msgid "Last change: %1$s by %2$s"
+msgstr "Letzte Änderung: %1$s von %2$s"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:138
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:814
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1240
+msgid "Published"
+msgstr "Veröffentlicht"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:139
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:991
+msgid "Comments on"
+msgstr "Kommentare erlauben"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:140
+msgid "Locked for changes"
+msgstr "Für Änderungen gesperrt"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:141
+#, php-format
+msgid "%1$s hits"
+msgstr "%1$s Besucher"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:153
+msgid "Categories:"
+msgstr "Kategorien:"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:165
+msgid "TitleLink:"
+msgstr "Titellink:"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:170
+msgid "A search engine friendly <em>titlelink</em> (aka slug) without special characters to be used in URLs is generated from the title of the currently chosen language automatically. You can edit it manually later after saving if necessary."
+msgstr "Ein suchmaschinenfreundlicher <em>Titellink</em> (auch \"slug\" genannt) ohne Sonderzeichen für die Verwendung in URLs wird automatisch aus dem Titel der aktuell eingestellten Sprache erstellt. Sie können diesen später manuell bearbeiten falls nötig."
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:176
+msgid "Content:"
+msgstr "Inhalt:"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:180
+msgid "ExtraContent:"
+msgstr "Extrainhalt:"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:182
+msgid "Here you can enter extra content for example to be printed on the sidebar"
+msgstr "Hier können Sie Extrainhalt für diese Seite eingeben, der zum Beispiel in der Seitenleiste angezeigt werden könnte."
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:184
+msgid "Codeblocks:"
+msgstr "Codeblöcke:"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:189
+msgid "Codeblock 1"
+msgstr "Codeblock 1"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:190
+msgid "Codeblock 2"
+msgstr "Codeblock 2"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:191
+msgid "Codeblock 3"
+msgstr "Codeblock 3"
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:218
+msgid "Use the codeblock text fields if you need to enter php code (for example Zenphoto functions) or javascript code."
+msgstr "Verwenden Sie die Codeblock-Felder, wenn Sie PHP-Code (z.B. Zenphoto-Funktionen) oder JavaScript-Code eingeben müssen."
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:219
+msgid "You also can use the codeblock fields as custom fields."
+msgstr "Sie können die Codeblock-Felder auch als benutzerdefinierte Felder verwenden."
+
+#: zenpage/zp-core/plugins/zenpage/admin-edit.php:220
+msgid "Note that your theme must be setup to use the codeblock functions. Note also that codeblock fields are not multi-lingual."
+msgstr "Bedenken Sie, dass Ihr Theme über die Codeblock-Funktionen verfügen muss. Außerdem sind die Codeblock-Felder nicht multilingual."
+
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:31
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1077
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1190
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1192
+msgid "Articles"
+msgstr "Artikel"
+
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:60
+#: zenpage/zp-core/plugins/zenpage/admin-pages.php:48
+msgid "Manage files"
+msgstr "Dateien verwalten"
+
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:70
+msgid "Edit this article"
+msgstr "Diesen Artikel bearbeiten"
+
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:101
+msgid "Publish or unpublish article"
+msgstr "Artikel veröffentlichen oder nicht veröffentlichen"
+
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:105
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:267
+msgid "Enable or disable comments"
+msgstr "Kommentare ein- oder abschalten"
+
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:110
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:113
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:134
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:137
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:272
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:275
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:297
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:300
+msgid "locked"
+msgstr "gesperrt"
+
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:118
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:119
+msgid "View article"
+msgstr "Artikel ansehen"
+
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:129
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:130
+msgid "Delete article"
+msgstr "Artikel löschen"
+
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:147
+#: zenpage/zp-core/plugins/zenpage/admin-pages.php:74
+msgid "Published/Not published"
+msgstr "Veröffentlicht/unveröffentlicht"
+
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:148
+#: zenpage/zp-core/plugins/zenpage/admin-pages.php:75
+msgid "Comments on/off"
+msgstr "Kommentare an/aus"
+
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:149
+#: zenpage/zp-core/plugins/zenpage/admin-pages.php:76
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:280
+msgid "View page"
+msgstr "Seite ansehen"
+
+#: zenpage/zp-core/plugins/zenpage/admin-news-articles.php:151
+#: zenpage/zp-core/plugins/zenpage/admin-pages.php:78
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:292
+msgid "Delete page"
+msgstr "Seite löschen"
+
+#: zenpage/zp-core/plugins/zenpage/admin-pages.php:41
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1081
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1185
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1187
+msgid "Pages"
+msgstr "Seiten"
+
+#: zenpage/zp-core/plugins/zenpage/admin-pages.php:45
+msgid "Select a page to edit or drag the pages into the order, including sub page levels, you wish them displayed. <strong>Note: </strong>The supported maximum of levels is top level plus <strong>4</strong> sub levels."
+msgstr "Wählen Sie eine Seite zum Bearbeiten oder verschieben Sie die Seiten in die gewünschte Reihenfolge, inklusive Unterebenen. <strong>Anmerkung:</strong> Die unterstützten Ebenanzahl ist Hauptebene plus <strong>4</strong> Unterebenen."
+
+#: zenpage/zp-core/plugins/zenpage/admin-pages.php:46
+#: zenpage/zp-core/plugins/zenpage/admin-pages.php:68
+msgid "Save order"
+msgstr "Sortierung sichern"
+
+#: zenpage/zp-core/plugins/zenpage/admin-pages.php:54
+msgid "Edit this page"
+msgstr "Diese Seite bearbeiten"
+
+#: zenpage/zp-core/plugins/zenpage/setup.php:12
+#: zenpage/zp-core/plugins/zenpage/setup.php:15
+msgid "Table"
+msgstr "Tabelle"
+
+#: zenpage/zp-core/plugins/zenpage/setup.php:12
+msgid "could not be created!"
+msgstr "konnte nicht erstellt werden!"
+
+#: zenpage/zp-core/plugins/zenpage/setup.php:13
+#: zenpage/zp-core/plugins/zenpage/setup.php:145
+msgid "Error:"
+msgstr "Fehler:"
+
+#: zenpage/zp-core/plugins/zenpage/setup.php:15
+#: zenpage/zp-core/plugins/zenpage/setup.php:21
+msgid "has been successfully created (or already exists)."
+msgstr "wurde erfolgreich erstellt (oder existiert bereits)."
+
+#: zenpage/zp-core/plugins/zenpage/setup.php:21
+#: zenpage/zp-core/plugins/zenpage/setup.php:23
+msgid "Upload folder"
+msgstr "Upload-Ordner"
+
+#: zenpage/zp-core/plugins/zenpage/setup.php:23
+msgid "could not be created. Please create it manually via FTP with chmod 0777."
+msgstr "konnte nicht erstellt werden. Bitte erstellen Sie ihn manuell über FTP mit chmod 777."
+
+#: zenpage/zp-core/plugins/zenpage/setup.php:33
+msgid "Setup Zenpage - a CMS plugin for Zenphoto"
+msgstr "Installation Zenpage - ein CMS-Plugin für Zenphoto"
+
+#: zenpage/zp-core/plugins/zenpage/setup.php:51
+msgid "Zenpage will now create the required database tables and the optional upload folder."
+msgstr "Zenpage wird nun die erforderlichen Datenbanktabellen einrichten sowie den optionalen Upload-Ordner."
+
+#: zenpage/zp-core/plugins/zenpage/setup.php:53
+msgid "Creating the database tables for zenpage:"
+msgstr "Erstelle die Datenbanktabellen für Zenpage:"
+
+#: zenpage/zp-core/plugins/zenpage/setup.php:144
+msgid "Table update failed!"
+msgstr "Tabellenaktualisierung fehlgeschlagen!"
+
+#: zenpage/zp-core/plugins/zenpage/setup.php:147
+msgid "Table updates have been successfully been applied."
+msgstr "Die Tabellenaktualisierung wurde erfolgreich abgeschlossen."
+
+#: zenpage/zp-core/plugins/zenpage/setup.php:152
+msgid "Creating the zenpage upload folder in the root directory of your zenphoto installation:"
+msgstr "Erstelle den Zenpage Upload-Ordner im Hauptordner Ihrer Zenphoto-Installation:"
+
+#: zenpage/zp-core/plugins/zenpage/setup.php:158
+msgid "Zenpage is ready to go!"
+msgstr "Zenpage ist nun fertig eingerichtet!"
+
+#: zenpage/zp-core/plugins/zenpage/setup.php:161
+#: zenpage/zp-core/plugins/zenpage/setup.php:163
+msgid "Go"
+msgstr "Los"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:65
+#, php-format
+msgid "Page <em>%s</em> added but you need to give it a <strong>title</strong> before publishing!"
+msgstr "Die Seite <em>%s</em> wurde hinzugefügt, aber Sie müssen ihr noch einen richtigen <strong>Titel</strong> geben bevor Sie sie veröffentlichen!"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:67
+#, php-format
+msgid "Page <em>%s</em> added"
+msgstr "Seite <em>%s</em> hinzugefügt"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:70
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:130
+#, php-format
+msgid "A page with the title/titlelink <em>%s</em> already exists"
+msgstr "Eine Seite mit dem Titel/Titellink <em>%s</em> existiert bereits."
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:125
+msgid "You forgot to give your page a <strong>title</strong>!"
+msgstr "Sie haben vergesse, Ihrer Seite einen <strong>Titel</strong> zu geben!"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:127
+#, php-format
+msgid "Page <em>%s</em> changes saved"
+msgstr "Änderungen der Seite <em>%s</em> gesichert"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:146
+msgid "Page successfully deleted!"
+msgstr "Seite erfolgreich gelöscht!"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:215
+msgid "You have more than the maximum supported 4 sub levels! Please try sorting differently."
+msgstr "Sie haben mehr als die maximale Anzahl von 4 Unterebenen. Bitte versuchen Sie anders zu sortieren."
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:233
+msgid "Sort order saved."
+msgstr "Sortierung gesichert."
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:264
+msgid "Publish or unpublish page"
+msgstr "Seite veröffentlichen oder nicht veröffentlichen"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:446
+#, php-format
+msgid "Article <em>%s</em> added but you need to give it a <strong>title</strong> before publishing!"
+msgstr "Der Artikel <em>%s</em> wurde hinzugefügt, aber Sie müssen ihm noch einen richtigen <strong>Titel</strong> geben bevor Sie Ihn veröffentlichen!"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:448
+#, php-format
+msgid "Article <em>%s</em> added"
+msgstr "Artikel <em>%s</em> hinzugefügt"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:451
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:522
+#, php-format
+msgid "An article with the title/titlelink <em>%s</em> already exists!"
+msgstr "Ein Artikel mit dem Titel/Titellink <em>%s</em> existiert bereits!"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:517
+#, php-format
+msgid "Article <em>%s</em> updated but you need to give it a <strong>title</strong> before publishing!"
+msgstr "Der Artikel <em>%s</em> wurde aktualisiert, aber Sie müssen ihm noch einen richtigen <strong>Titel</strong> geben bevor Sie Ihn veröffentlichen!"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:519
+#, php-format
+msgid "Article <em>%s</em> updated"
+msgstr "Artikel <em>%s</em> aktualisiert!"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:555
+msgid "Article successfully deleted!"
+msgstr "Artikel erfolgreich gelöscht!"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:626
+msgid "View all months"
+msgstr "Alle Monate anzeigen"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:678
+msgid "Prev Page"
+msgstr "Vorherige Seite"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:678
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:680
+msgid "prev"
+msgstr "Zurück"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:701
+#: zenpage/zp-core/plugins/zenpage/zenpage-template-functions.php:1686
+msgid "Next page"
+msgstr "Nächste Seite"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:701
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:703
+msgid "next"
+msgstr "Vor"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:734
+msgid "All categories"
+msgstr "Alle Kategorien"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:813
+msgid "All articles"
+msgstr "Alle Artikel"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:815
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1242
+msgid "Unpublished"
+msgstr "Unveröffentlicht"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:841
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:875
+msgid "You forgot to give your category a <strong>title or titlelink</strong>!"
+msgstr "Sie haben vergessen, der Kategorie einen <strong>Titel oder Titellink</strong> zu geben!"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:845
+#, php-format
+msgid "Category <em>%s</em> added"
+msgstr "Kategorie <em>%s</em> hinzugefügt"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:847
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:880
+#, php-format
+msgid "A category with the title/titlelink <em>%s</em> already exists!"
+msgstr "Eine Kategorie mit dem Titel/Titellink <em>%s</em> existiert bereits!"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:877
+msgid "Category updated!"
+msgstr "Kategorie aktualisiert!"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:900
+msgid "Category successfully deleted!"
+msgstr "Kategorie erfolgreich gelöscht!"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:913
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:946
+msgid "Untitled category"
+msgstr "Kategorie ohne Titel"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:917
+msgid "Edit this category"
+msgstr "Diese Kategorie bearbeiten"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:918
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1190
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1192
+msgid "articles"
+msgstr "Artikel"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:925
+msgid "Are you sure you want to delete this category? THIS CANNOT BE UNDONE!"
+msgstr "Sind Sie sicher, dass Sie diese Kategorie löschen wollen? DIES KANN NICHT RÜCKGÄNGIG GEMACHT WERDEN!"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:925
+msgid "Delete Category"
+msgstr "Kategorie löschen"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:925
+msgid "Delete"
+msgstr "Löschen"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:940
+msgid "Untitled page"
+msgstr "Seite ohne Titel"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:943
+msgid "Untitled article"
+msgstr "Artikel ohne Titel"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:993
+msgid "Comments off"
+msgstr "Kommentare aus"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1057
+msgid "hit"
+msgstr "Besucher"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1059
+msgid "hits"
+msgstr "Besucher"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1086
+#, php-format
+msgid "(<strong>%u</strong> Categories)"
+msgstr "(<strong>%u</strong> Kategorien)"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1112
+#, php-format
+msgid "(<strong>%1$u</strong> %2$s, <strong>%3$u</strong> unpublished)"
+msgstr "(<strong>%1$u</strong> %2$s, <strong>%3$u</strong> unveröffentlicht)"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1185
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1187
+msgid "pages"
+msgstr "Seiten"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1195
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1197
+msgid "categories"
+msgstr "Kategorien"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1201
+msgid "You need Admin Rights or Zenpage rights to use Zenpage"
+msgstr "Sie benötigen Administrationsrechte oder Zenpage-Rechte, um Zenpage verwenden zu können."
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1447
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1464
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1480
+msgid "Toggle Editor"
+msgstr "Editor ausblenden"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-admin-functions.php:1519
+#, php-format
+msgid "<a href=\"http://zenpage.maltem.de/zenpage/index.php\">zenpage</a> version %1$s [%2$s]"
+msgstr "<a href=\"http://zenpage.maltem.de/zenpage/index.php\">zenpage</a> Version %1$s [%2$s]"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-template-functions.php:72
+#, php-format
+msgid "%1$s=>%2$s"
+msgstr "%1$s=>%2$s"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-template-functions.php:115
+msgid "hitcounter is deprecated. Use getZenpageHitcounter()."
+msgstr "hitcounter ist veraltet. Verwenden sie getZenpageHitcouner()."
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-template-functions.php:591
+msgid "No flash player installed."
+msgstr "Kein Flashplayer installiert."
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-template-functions.php:1650
+msgid "Prev page"
+msgstr "Vorherige Seite"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-template-functions.php:1735
+#: zenpage/zp-core/plugins/zenpage/zenpage-template-functions.php:1737
+msgid "Page"
+msgstr "Seite"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-template-functions.php:2633
+msgid "by"
+msgstr "von: "
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-template-functions.php:2784
+#, php-format
+msgid "View the %s album"
+msgstr "Album %s ansehen"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-template-functions.php:2786
+#, php-format
+msgid "View the photo album %s"
+msgstr "Album %s ansehen"
+
+#: zenpage/zp-core/plugins/zenpage/zenpage-template-functions.php:2791
+#: zenpage/zp-core/plugins/zenpage/zenpage-template-functions.php:2792
+#, php-format
+msgid "View %s"
+msgstr "%s ansehen"
+
+#~ msgid "Save article"
+#~ msgstr "Artikel sichern"
+#~ msgid ""
+#~ "Here you can enter extra content related to the article for example to be "
+#~ "printed on the sidebar"
+#~ msgstr ""
+#~ "Hier können Sie Extrainhalt für diesen Artikel eingeben, der zum Beispiel "
+#~ "in der Seitenleiste angezeigt werden könnte."
+#~ msgid ""
+#~ "Use the codeblock text fields if you need to enter php code (for example "
+#~ "Zenphoto functions) or javascript code. NOTE: Only single quotes are "
+#~ "allowed."
+#~ msgstr ""
+#~ "Verwenden Sie die codeblock-Textfelder, wenn Sie PHP-Code (für z.B. "
+#~ "Zenphoto-Funktionen) oder JavaScript-Code eingeben wollen. ANMERKUNG: Es "
+#~ "sind nur einfache Anführungszeichen erlaubt."
+#~ msgid "Update article"
+#~ msgstr "Artikel aktualisieren"
+#~ msgid ""
+#~ "If you lock a page only the current active author/user or any user with "
+#~ "full admin rights will be able to edit it later again!"
+#~ msgstr ""
+#~ "Wenn Sie eine Seite sperren, kann nur der sperrende Autor/Benutzer oder "
+#~ "jeder Benutzer mit vollen Administratonsrechten diesen Artikel später "
+#~ "bearbeiten."
+#~ msgid ""
+#~ "<strong>Important:</strong> If you are using Zenphoto's multi-lingual "
+#~ "mode the Titlelink is generated from the Title of the currently active "
+#~ "language."
+#~ msgstr ""
+#~ "<strong>Wichtig:</strong> Wenn Sie Zenphoto im mehrsprachigen Modus "
+#~ "verwenden, wird der Titellink vom Titel der aktuell eingestellten Sprache "
+#~ "erstellt."
+#~ msgid "Save page"
+#~ msgstr "Seite sichern"
+#~ msgid "Update page"
+#~ msgstr "Seite aktualisieren"
+#~ msgid "You forgot to give your article a <strong>title</strong>!"
+#~ msgstr ""
+#~ "Sie haben vergessen, Ihrem Artikel einen <strong>Titel</strong> zu geben!"
+#~ msgid "Are you sure you want to delete the category"
+#~ msgstr "Sind Sie sicher, dass Sie diese Kategorie löschen wollen?"
+#~ msgid ""
+#~ "? If the category is in use by articles it will be deleted from them, too."
+#~ msgstr ""
+#~ "? Wenn die Kategorie von Artikeln verwendet wird, wird sie dort ebenfalls "
+#~ "entfernt."
+#~ msgid "Here you can manage the categories for your articles."
+#~ msgstr "Hier können Sie die Kategorien für Ihre Artikel verwalten."
+#~ msgid "Admin Toolbox"
+#~ msgstr "Verwaltung"
+#~ msgid "Admin"
+#~ msgstr "Verwaltung"
+#~ msgid "Zenpage"
+#~ msgstr "Zenpage"
+#~ msgid "Edit Article"
+#~ msgstr "Artikel bearbeiten"
+#~ msgid "Edit Page"
+#~ msgstr "Seite bearbeiten"
+#~ msgid "Logout"
+#~ msgstr "Abmelden"
+#~ msgid "Last change: %1$s<br /> by %2$s"
+#~ msgstr "Letzte Änderung: %1$s<br /> von %2$s"
+#~ msgid "Additional<br />Content:"
+#~ msgstr "Zusätzlicher<br />Inhalt:"
+#~ msgid "Last change:"
+#~ msgstr "Letzte Änderung:"
+#~ msgid "None"
+#~ msgstr "Keine"
+#~ msgid "Zenpage Overview"
+#~ msgstr "Zenpage-Überblick"
+#~ msgid "Most popular pages, articles and categories"
+#~ msgstr "Meistbesuchte Seiten, Artikel und Kategorien"
+#~ msgid "Stats"
+#~ msgstr "Statistik"
+#~ msgid "Some resources"
+#~ msgstr "Nützliche Links"
+#~ msgid "Cancel"
+#~ msgstr "Abbrechen"
+#~ msgid "Close"
+#~ msgstr "Schließen"
+#~ msgid "Overview"
+#~ msgstr "Überblick"
+#~ msgid "overview"
+#~ msgstr "Überblick"
+#~ msgid "changes saved"
+#~ msgstr "Änderungen gesichert"
+#~ msgid "Article"
+#~ msgstr "Artikel"
+#~ msgid "added"
+#~ msgstr "hinzugefügt"
+#~ msgid "updated!"
+#~ msgstr "aktualisiert!"
+#~ msgid "Category"
+#~ msgstr "Kategorie"
+#~ msgid "(unpublished"
+#~ msgstr "(unveröffentlicht"
+#~ msgid "Enable permalink"
+#~ msgstr "PermaLink aktivieren"
+#~ msgid ""
+#~ "A search engine friendly <em>titlelink</em> (aka slug) without special "
+#~ "characters to be used in URLs is generated from the title automatically "
+#~ "from the page title of the currently chosen language. You can edit it "
+#~ "later manually if necessary."
+#~ msgstr ""
+#~ "Ein suchmaschinenfreundlicher <em>Titellink</em> ohne Sonderzeichen für "
+#~ "den Gebrauch in URLs wird automatisch vom Titel"
+#~ msgid ""
+#~ "A search engine friendly <em>Categorylink</em> (aka slug) without special "
+#~ "characters to be used in URLs is generated from the category title of the "
+#~ "currently chosen language automatically. You can edit it later manually "
+#~ "if necessary."
+#~ msgstr ""
+#~ "Ein suchmaschinenfreundlicher <em>Kategorielink</em> ohne Sonderzeichen "
+#~ "wird automatisch aus dem Kategorietitel der aktuell eingestellten Sprache "
+#~ "erstellt. Sie können diesen später manuell bearbeiten, wenn nötig."
+#~ msgid ""
+#~ "<strong>Important:</strong> If you are using Zenphoto's multi-lingual "
+#~ "mode the CategoryTitlelink is generated from the title of the currently "
+#~ "selected language."
+#~ msgstr ""
+#~ "<strong>Wichtig:</strong> Wenn Sie Zenphoto im mehrsprachigen Modus "
+#~ "verwenden, wird der KategorieTitellink aus dem Titel der aktuell "
+#~ "eingestellten Sprache erstellt."
+
+#, fuzzy
+#~ msgid "Category:"
+#~ msgstr "Kategorien"
+
+#, fuzzy
+#~ msgid "Enable permaCategorylink"
+#~ msgstr "Dauerhafte Archive aktivieren:"
+#~ msgid ""
+#~ "Check <em>Edit Categorylink</em> if you need to customize how the "
+#~ "Categorytitle appears in URLs. Otherwise it will be automatically updated "
+#~ "to any changes made to the title. If you want to prevent this check "
+#~ "<em>Enable permaCategorylink</em> and the category link stays always the "
+#~ "same (recommended if you use Zenphoto's multilingual mode).. Note that "
+#~ "<em>Edit Categorylink</em> overrides the permalink setting."
+#~ msgstr ""
+#~ "Wählen Sie <em>KategorieTitellink bearbeiten</em>, wenn Sie anpassen "
+#~ "möchten, wie der Titel in URLs erscheint.  Andernfalls wird er jedesmal "
+#~ "automatisch jeder Änderung am Titel angepaßt. Wenn Sie dies verhindern "
+#~ "möchten, wählen Sie <em>PermaTitellink aktivieren</em> und der Titellink "
+#~ "bleibt immer derselbe (empfohlen, wenn Sie Zenphoto im mehrsprachigen "
+#~ "Modus verwenden). <strong>Anmerkung: </strong> <em>KategorieTitellink "
+#~ "bearbeiten</em> übergeht die <em>PermaTitellink aktivieren</em>-"
+#~ "Einstellung."
+#~ msgid ""
+#~ "<strong>Important:</strong> If you are using Zenphoto's multi-lingual "
+#~ "mode the CategoryTitlelink is generated from the title of of the "
+#~ "currently selected language."
+#~ msgstr ""
+#~ "<strong>Wichtig:</strong> Wenn Sie Zenphoto im mehrsprachigen Modus "
+#~ "verwenden, wird der KategorieTitellink aus dem Titel der aktuell "
+#~ "eingestellten Sprache erstellt."
+
+#, fuzzy
+#~ msgid "Edit CategoryLink"
+#~ msgstr "Galerie bearbeiten"
+
+#, fuzzy
+#~ msgid "Categories: Add"
+#~ msgstr "Mehr Felder zum Hochladen hinzufügen"
+#~ msgid "Maintaining"
+#~ msgstr "Wartung"
+
+#, fuzzy
+#~ msgid "The cache is"
+#~ msgstr "ist verfügbar."
+
+#, fuzzy
+#~ msgid "enabled."
+#~ msgstr "Aktiviert"
+
+#, fuzzy
+#~ msgid "not enabled."
+#~ msgstr "Nicht vollständig"
+
+#, fuzzy
+#~ msgid "Clear Pages Cache"
+#~ msgstr "Bilder des Albums zwischenspeichern."
+
+#, fuzzy
+#~ msgid "Clear Articles Cache"
+#~ msgstr "Bilder des Albums zwischenspeichern."
+
+#, fuzzy
+#~ msgid "Clear Complete Cache"
+#~ msgstr "Bilder des Albums zwischenspeichern."
+
+#, fuzzy
+#~ msgid "Cache folder"
+#~ msgstr "Album zwischenspeichern"
+
+#, fuzzy
+#~ msgid "Click to proceed"
+#~ msgstr "%s ist definiert als %s."
+
+#, fuzzy
+#~ msgid "Published:"
+#~ msgstr "Veröffentlicht"
+
+#, fuzzy
+#~ msgid "Date"
+#~ msgstr "Datum:"
+
+#, fuzzy
+#~ msgid "Author"
+#~ msgstr "Autor:"
+
+#, fuzzy
+#~ msgid "Comments On"
+#~ msgstr "Kommentare erlauben"
+
+#, fuzzy
+#~ msgid "Categories: Edit"
+#~ msgstr "Galerie bearbeiten"
+
+#, fuzzy
+#~ msgid "CategoryURL:"
+#~ msgstr "Kategorien"
+
+#, fuzzy
+#~ msgid "Pages:"
+#~ msgstr "[ %d Seiten * %d Kopie ]"
+
+#, fuzzy
+#~ msgid "Comments:"
+#~ msgstr "Kommentare"
+
+#, fuzzy
+#~ msgid "successfully created!"
+#~ msgstr "Kommentar erfolgreich gelöscht."
+#~ msgid "Refresh"
+#~ msgstr "Aktualisieren"
+
+#, fuzzy
+#~ msgid "Uploaded folder"
+#~ msgstr "Datei/Ordnername"
+#~ msgid "Logged in as"
+#~ msgstr "Angemeldet als"
+
+#, fuzzy
+#~ msgid "upload"
+#~ msgstr "Hochladen"
+
+#, fuzzy
+#~ msgid "edit"
+#~ msgstr "Bearbeiten"
+
+#, fuzzy
+#~ msgid "options"
+#~ msgstr "Einstellungen"
+
+#, fuzzy
+#~ msgid "themes"
+#~ msgstr "Designs"
+#~ msgid "plugins"
+#~ msgstr "Plugins"
+

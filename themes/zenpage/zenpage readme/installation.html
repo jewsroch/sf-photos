@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Installing Zenpage - a CMS plugin for Zenphoto</title>
+	<style type="text/css">
+		body { font-size: 0.9em; }
+		li { margin-bottom: 10px; }
+		code { font-size: 0.9em; color: gray; font-family: Courier, Monaco, mono-space; }
+	
+	</style>
+</head>
+
+<body>
+
+<h1>Zenpage Installation</h1>
+<ol>
+<li>Download the Zenpage package and extract its contents. You should then see three folders and some root files. This mimics the structure of the zenphoto package.</li>
+
+<li>Copy the content of the zenpage distribution onto the Zenphoto installation. This will copy the <code>RSS</code> files to the zenphoto root, the zenpage-default theme to the <code>themes</code> folder, and the zenpage and tiny_mce plugins to the <code>plugins</code> folder.</li>
+
+<li>The mod_rewrite the rewrite rules for Zenpage are already included in Zenphoto's <code>.htaccess</code> file so you have nothing extra to do to use mod_rewrite with Zenpage.
+ </li>
+<li>Now go to Zenphoto's admin plugins page and activate the Zenpage plugin</li>
+
+<li><em>Setup Zenpage</em> will run automatically after you activated the plugin when you are accessing then Zenpage admin pages or your site. This will create four new db tables and will use your general Zenphoto MySQL settings.<br />
+Additionally it will create the folder <code>uploaded</code> in the root directory of your Zenphoto installation. This folder is used by the Ajax File Manager for upload storage.</li>
+
+<li>If everything ran smoothly and you didn't get any errors you are done.</li>
+</ol>
+
+<p>For more usage info please visit:</p>
+<ul>
+<li><a href="http://www.zenphoto.org">Zenphoto site</a></li>
+<li><a href="http://zenpage.maltem.de">Zenpage project site</a></li>
+</ul>
+</body>
+</html>
